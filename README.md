@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on coding~
+🔭 Do some thing interesting~
 
 <!--
 **lane128/lane128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
